@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I am Peter, and I am a Ph.D. in physical chemistry. Aside from research, I build random software, design mechanical keyboards, and make blender animations.
+I am Peter, a researcher in physical chemistry and material science. I build random software, design mechanical keyboards, and make blender animations.
 
-![Linkedin](https://img.shields.io/badge/-petersun73-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/petersun73/)
 [![GitHub](https://img.shields.io/github/followers/peterhs73?label=follow&style=social)](https://github.com/peterhs73/)
 
 
